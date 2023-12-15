@@ -1,0 +1,16 @@
+.view{
+    background-color: darkgray;
+    height:62vh;
+}
+
+.container1{
+    background-color: black;
+    height:20vh;
+    padding:25px;
+}
+
+.container2{
+    background-color: lightgray;
+    height:10vh;
+}
+
