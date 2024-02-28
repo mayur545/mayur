@@ -2,7 +2,7 @@ import React from 'react';
 import PlaceIcon from '@mui/icons-material/Place';
 import CallIcon from '@mui/icons-material/Call';
 import EmailIcon from '@mui/icons-material/Email';
-import './contact.css';
+import './Contact.css';
 
 
 function Contact() {
@@ -58,7 +58,6 @@ function Contact() {
           <h4><b>John Doe</b></h4>
             <h6><b>CEO &amp; Founder</b></h6>
             <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendiss sodales pellentesque elementum. </p>
-              <center><button className='moon'><i><EmailIcon/><b>Contact</b></i></button></center>
           </div>
         </div>
       </div>
@@ -69,7 +68,6 @@ function Contact() {
             <h4><b>John Doe</b></h4>
             <h6><b>CEO &amp; Founder</b></h6>
             <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendiss sodales pellentesque elementum. </p>
-            <center><button className='moon'><i><EmailIcon/><b>Contact</b></i></button></center>
           </div>
         </div>
       </div>
@@ -80,7 +78,6 @@ function Contact() {
             <h4><b>John Doe</b></h4>
             <h6><b>CEO &amp; Founder</b></h6>
             <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendiss sodales pellentesque elementum. </p>
-            <center><button className='moon'><i><EmailIcon/><b>Contact</b></i></button></center>
           </div>
         </div>
       </div>
@@ -91,7 +88,6 @@ function Contact() {
             <h4><b>John Doe</b></h4>
             <h6><b>CEO &amp; Founder</b></h6>
             <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendiss sodales pellentesque elementum. </p>
-            <center><button className='moon'><i><EmailIcon/><b>Contact</b></i></button></center>
           </div>
         </div>
       </div>
